@@ -1,2 +1,1 @@
-# Scriptblox-Scripthub-Interigation
-yes
+Leveraging ScriptBlox's RESTful API, this utility interfaces with its exposed endpoints to programmatically fetch and parse script data. It dynamically invokes API functions such as getScript() and loadScript() to retrieve executable code snippets, which are then rendered in a clipboard-friendly format for seamless copy-paste functionality. Additionally, it queries metadata endpoints to display a views counter, providing real-time analytics on script popularity via an embedded UI label that updates asynchronously upon each fetch.
